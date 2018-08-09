@@ -4,15 +4,15 @@ This is an archive and ongoing collection of projects during August 2018.
 
 ## WEEK 1 PROJECTS
 
-    [Wekinator Example: Dino Jump] (https://travisfeldman.github.io/W1)
+   [Wekinator Example: Dino Jump](https://travisfeldman.github.io/W1)
     
-    [Machine Learning Example 1: Word2Vec] (https://travisfeldman.github.io/ML1)
+   [Machine Learning Example 1: Word2Vec](https://travisfeldman.github.io/ML1)
     
-    [Machine Learning Example 2: YOLO] (https://travisfeldman.github.io/ML2)
+   [Machine Learning Example 2: YOLO](https://travisfeldman.github.io/ML2)
     
-    [Machine Learning Example 3: Classification w Mobilenet] (https://travisfeldman.github.io/ML3)
+   [Machine Learning Example 3: Classification w Mobilenet](https://travisfeldman.github.io/ML3)
     
-    [P5JS Sound Library Example: Sequencer] (https://travisfeldman.github.io/ML4)
+   [P5JS Sound Library Example: Sequencer](https://travisfeldman.github.io/ML4)
 
 ## WEEK 2 PROJECTS
 
@@ -68,7 +68,7 @@ Women and persons from LGBTQ+ and other under-represented communities in the tec
 Note: If you'd like us to seek out your accommodation for the month, please add €525 to the above fee.
 
 ### Links
-    [ML4A] (https://ml4a.github.io/)
-    [Gene Kogan] (http://genekogan.com/)
-    [Andreas Refsgaard] (https://andreasrefsgaard.dk/)
-    [Andreas's workshop blog](https://andreasref.github.io/som/)
+   [ML4A](https://ml4a.github.io/)
+   [Gene Kogan](http://genekogan.com/)
+   [Andreas Refsgaard](https://andreasrefsgaard.dk/)
+   [Andreas's workshop blog](https://andreasref.github.io/som/)
