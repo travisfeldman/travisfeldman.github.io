@@ -6,9 +6,9 @@
  */
 
 var click, beatbox;
-var clickPhrase = [1, 0, 0, 0];
-var bboxPhrase = [0, 0, 1, 0, 0, 0, 1, 1];
-
+var clickPhrase = [1, 0, 1, 1];
+var bboxPhrase = [1, 0, 0, 1, 1, 1, 0, 0];
+var balls = [];
 
 var part; // a part we will loop
 
@@ -22,15 +22,24 @@ function preload() {
 function setup() {
   // create a part with 8 spaces, where each space represents 1/16th note (default)
   part = new p5.Part(8, 1/16);
-
   // add phrases, with a name, a callback, and
   // an array of values that will be passed to the callback if > 0
   part.addPhrase('kick', playKick, clickPhrase);
   part.addPhrase('snare', playSnare, bboxPhrase);
-
   // set tempo (Beats Per Minute) of the part and tell it to loop
-  part.setBPM(80);
+  part.setBPM(110);
   part.loop();
+  for (var i = 0; i < numBalls; i++) {
+    balls[i] = new Ball(
+      random(width),
+      random(height),
+      random(30, 70),
+      i,
+      balls
+    );
+  }
+  noStroke();
+  fill(255, 204);
 }
 
 function playKick(time, params) {
@@ -45,8 +54,14 @@ function playSnare(time, params) {
 
 // draw a ball mapped to current note height
 function draw() {
-  background(255);
-  fill(255, 0, 0);
+  //background(255);
+  //fill(255, 0, 0);
+  background(0);
+  balls.forEach(ball => {
+    ball.collide();
+    ball.move();
+    ball.display();
+  });
 }
 
 // UI 
