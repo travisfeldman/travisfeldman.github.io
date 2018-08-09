@@ -10,15 +10,15 @@ var dingdong;
 var doorbell;
 
 function setup() {
-  createCanvas(200, 200);
+  createCanvas(800, 800);
 
   // Load the sound file.
   // We have included both an MP3 and an OGG version.
   soundFormats('mp3', 'ogg');
-  dingdong = loadSound('assets/doorbell.mp3');
+  dingdong = loadSound('travisfeldman.github.io/FILES/doorbell.mp3');
 
   // Create a new doorbell
-  doorbell = new Doorbell(width/2, height/2, 64);
+  doorbell = new Doorbell(width/2, height/2, 128);
 }
 
 function draw() {
