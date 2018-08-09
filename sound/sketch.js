@@ -3,8 +3,8 @@ var doorbell;
 
 function setup() {
   createCanvas(800, 800);
-  soundFormats('mp3', 'ogg');
-  dingdong = loadSound('https://travisfeldman.github.io/FILES/doorbell.mp3');
+  //soundFormats('mp3', 'ogg');
+  //dingdong = loadSound('https://travisfeldman.github.io/FILES/doorbell.mp3');
   doorbell = new Doorbell(width/2, height/2, 128);
 }
 
