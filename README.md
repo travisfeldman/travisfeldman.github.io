@@ -1,9 +1,8 @@
-# Berlin,August 2018: "Autonomous Generative Spirit"
-## School of MA:ml4a
+# Berlin, August 2018: "Autonomous Generative Spirit"
 
 This is an archive and ongoing collection of projects during August 2018. 
 
-## WEEK 1: August 6-10
+## WEEK 1 PROJECTS
 
     [Wekinator Example: Dino Jump] (https://travisfeldman.github.io/W1)
     
@@ -15,6 +14,11 @@ This is an archive and ongoing collection of projects during August 2018.
     
     [P5JS Sound Library Example: Sequencer] (https://travisfeldman.github.io/ML4)
 
+## WEEK 2 PROJECTS
+
+## WEEK 3 PROJECTS
+
+## WEEK 4 PROJECTS
 
 Autonomous Generative Spirit is an intensive four-week program led by artists Gene Kogan and Andreas Refsgaard.
 
@@ -28,11 +32,11 @@ Artistic metaphors help clarify that which is otherwise shrouded by layers of ac
 
 Most interestingly, machine learning enables large-scale collaboration, allowing many separate components to be integrated into a common creation. This course will explore this further.
 
-# Course Description
+## Course Description
 
 In the first half of this course, students will be introduced to the field of machine learning as a subject for artistic practice and interdisciplinary research. In Week 1, students will learn how to program self-adapting instruments for real-time musical and visual expression, using Wekinator along with a suite of real-time software applications from ml4a.
 
-# Course Outline
+## Course Outline
 
       Week 1: Supervised machine learning from a real-time interaction design perspective.
 
@@ -46,14 +50,14 @@ In the first half of this course, students will be introduced to the field of ma
 
 We'll examine the ethical and sociocultural dimensions of machine learning, and discuss the coming issues which are sure to be preceded by the ever-increasing integration of these thinking machines into our daily lives.
 
-## Who is this program for?
+### Who is this program for?
 This course is aimed at people working in creative disciplines who wish to learn about machine intelligence and how to apply it in their own fields. It is *not* aimed at scientists or engineers who are seeking a rigorous technical course on machine learning -- plenty of such classes already exist. Instead, no specialized knowledge of mathematics or computer science is assumed or expected of students, and we will build up our understanding of the subject from elementary building blocks, imagination, analogy, and metaphor.
 
 This course is more practical than it is theoretical; we are interested less in proving theorems and equations, and more into hacking existing tools for making machines that do interesting things. Additionally, this program will emphasize group work and collaboration.
 
 People of diverse backgrounds and interests will all find something to take away from this class. If you are a journalist interested in the socioeconomic ramifications of increased automation, a musician wanting to manipulate your instruments with data streams, a designer wishing to imbue your craft with machine artifacts, or you’re just plain old fascinated by the age-old philosophical dilemma of cognition, this class is for you.
 
-## Pricing
+### Pricing
 Artist / Student (Full Time)*
 €1950
 Professional*
@@ -63,8 +67,8 @@ Women and persons from LGBTQ+ and other under-represented communities in the tec
 *Includes in-class materials, use of space, and professional mentorship
 Note: If you'd like us to seek out your accommodation for the month, please add €525 to the above fee.
 
-## Related Links
-### About ML4A[https://ml4a.github.io/]
-### About Gene Kogan[http://genekogan.com/]
-### About Andreas Refsgaard[https://andreasrefsgaard.dk/]
-### [Andreas's blog](https://andreasref.github.io/som/)
+### Links
+    [ML4A] (https://ml4a.github.io/)
+    [Gene Kogan] (http://genekogan.com/)
+    [Andreas Refsgaard] (https://andreasrefsgaard.dk/)
+    [Andreas's workshop blog](https://andreasref.github.io/som/)
