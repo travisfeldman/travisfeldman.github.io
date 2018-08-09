@@ -8,8 +8,6 @@
 var click, beatbox;
 var clickPhrase = [1, 0, 1, 1];
 var bboxPhrase = [1, 0, 0, 1, 1, 1, 0, 0];
-var balls = [];
-
 var part; // a part we will loop
 
 function preload() {
@@ -29,17 +27,6 @@ function setup() {
   // set tempo (Beats Per Minute) of the part and tell it to loop
   part.setBPM(110);
   part.loop();
-  for (var i = 0; i < numBalls; i++) {
-    balls[i] = new Ball(
-      random(width),
-      random(height),
-      random(30, 70),
-      i,
-      balls
-    );
-  }
-  noStroke();
-  fill(255, 204);
 }
 
 function playKick(time, params) {
@@ -56,14 +43,20 @@ function playSnare(time, params) {
 function draw() {
   //background(255);
   //fill(255, 0, 0);
-  background(0);
-  balls.forEach(ball => {
-    ball.collide();
-    ball.move();
-    ball.display();
-  });
+  drawCircle(width/2, 280, 6);
+}
+
+function drawCircle(x, radius, level) {                    
+  var tt = 126 * level/4.0;
+  fill(tt);
+  ellipse(x, height/2, radius*2, radius*2);      
+  if(level > 1) {
+    level = level - 1;
+    drawCircle(x - radius/2, radius/2, level);
+    drawCircle(x + radius/2, radius/2, level);
+  }
 }
 
 // UI 
-var hDiv = 2;
-var wDiv = 16;
+//var hDiv = 2;
+//var wDiv = 16;
