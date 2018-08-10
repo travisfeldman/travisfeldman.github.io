@@ -58,20 +58,18 @@ This course is more practical than it is theoretical; we are interested less in 
 People of diverse backgrounds and interests will all find something to take away from this class. If you are a journalist interested in the socioeconomic ramifications of increased automation, a musician wanting to manipulate your instruments with data streams, a designer wishing to imbue your craft with machine artifacts, or you’re just plain old fascinated by the age-old philosophical dilemma of cognition, this class is for you.
 
 ### Pricing
-Artist / Student (Full Time)*
-€1950
-Professional*
-€2250
+      Artist / Student (Full Time)*€1950
+      Professional*€2250
 
 Women and persons from LGBTQ+ and other under-represented communities in the tech field highly encouraged to apply!
 *Includes in-class materials, use of space, and professional mentorship
 Note: If you'd like us to seek out your accommodation for the month, please add €525 to the above fee.
 
 ### Links
-   **[ML4A](https://ml4a.github.io/)
+      **[ML4A](https://ml4a.github.io/)
    
-   **[Gene Kogan](http://genekogan.com/)
+      **[Gene Kogan](http://genekogan.com/)
    
-   **[Andreas Refsgaard](https://andreasrefsgaard.dk/)
+      **[Andreas Refsgaard](https://andreasrefsgaard.dk/)
    
-   **[Andreas's workshop blog](https://andreasref.github.io/som/)
+      **[Andreas's workshop blog](https://andreasref.github.io/som/)
