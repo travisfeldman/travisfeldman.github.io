@@ -68,7 +68,10 @@ Women and persons from LGBTQ+ and other under-represented communities in the tec
 Note: If you'd like us to seek out your accommodation for the month, please add €525 to the above fee.
 
 ### Links
-   [ML4A](https://ml4a.github.io/)
-   [Gene Kogan](http://genekogan.com/)
-   [Andreas Refsgaard](https://andreasrefsgaard.dk/)
-   [Andreas's workshop blog](https://andreasref.github.io/som/)
+   **[ML4A](https://ml4a.github.io/)
+   
+   **[Gene Kogan](http://genekogan.com/)
+   
+   **[Andreas Refsgaard](https://andreasrefsgaard.dk/)
+   
+   **[Andreas's workshop blog](https://andreasref.github.io/som/)
